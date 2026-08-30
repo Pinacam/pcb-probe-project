@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project_Probe.PrjPcb]
+   Generated File[PCB3-FINAL.TXT]
+   Generated File[PCB3-FINAL.LDP]
+   Generated File[PCB3-FINAL.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:27:52 PM On 2025-11-17
