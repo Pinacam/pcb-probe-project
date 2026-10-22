@@ -1,0 +1,21 @@
+# Altium PCB
+*.PcbDocOld
+*.SchDocOld
+*.DbLib
+*.DsnWrk
+Project Outputs/
+History/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.out
